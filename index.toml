@@ -304,6 +304,11 @@ hash = "17d264f4ab1611c8737b3ea69e638626b5736102e25382fe0c488197c0f28272"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "7797b4dcd9c68b4555caf2629b0bff76f234ae04e8b42956e95ce2c65807049e"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "be22303ee2b8c2c3954100ddaa60f10de2f6b37c0d59fe7a545f140f8bc4c049"
 metafile = true
