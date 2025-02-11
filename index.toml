@@ -234,6 +234,11 @@ hash = "128e3337a2a60b34e64da0b032e3e50aac16fc6a0d4c061fd787ebe88fab3205"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "82302805c9d6e897108da0e5abafd367eac05b517d9e892a2355cd0d91946b53"
+metafile = true
+
+[[files]]
 file = "mods/camerapture.pw.toml"
 hash = "a3e2d40acfe8f8828eb86bd214e479c9f587c104360ed10b134f14fb952bcc92"
 metafile = true
