@@ -1,0 +1,30 @@
+{
+  "disallowedEnchantments": [
+    "minecraft:efficiency"
+  ],
+  "invertedList": false,
+  "overhaulEnchantingTable": "ACCEPTABLE",
+  "singleLevelMode": false,
+  "enchantmentLimit": 2,
+  "disableDurability": false,
+  "disableVelocityChecks": true,
+  "enhanceMobs": true,
+  "freeEnchantedBookMerging": true,
+  "rebalanceConsumables": false,
+  "rebalanceEnchantments": false,
+  "rebalanceEquipment": false,
+  "rebalanceProjectiles": false,
+  "rebalanceStatusEffects": false,
+  "toggleablePassives": true,
+  "weaponEnchantmentCooldownRequirement": 0.7,
+  "maxFellTreesBlocks": 1024,
+  "maxFellTreesHorizontalLength": 7,
+  "maxMineOreVeinsBlocks": 64,
+  "coyoteBiteTicks": 3,
+  "enchantmentDescriptions": true,
+  "coloredEnchantmentNames": true,
+  "allowDuplicateKeybindings": "VANILLA_AND_ENCHANCEMENT",
+  "invertedBounce": false,
+  "doublePressDirectionBurst": false,
+  "inputlessDirectionBurst": false
+}

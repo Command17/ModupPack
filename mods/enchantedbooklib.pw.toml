@@ -1,0 +1,13 @@
+name = "EnchantedBookLib"
+filename = "enchantedbooklib-0.1.3+mc1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/36JtkTh1/versions/kBSgP53z/enchantedbooklib-0.1.3%2Bmc1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "a237cbdee63642fa07414c7c0f89e755a664dc28985e508a75b6ef6798e4a3edac1f72dd074ac81d36488c172487e07e35cebeb26d85562ec0819fb91f7f0d63"
+
+[update]
+[update.modrinth]
+mod-id = "36JtkTh1"
+version = "kBSgP53z"

@@ -1,0 +1,13 @@
+name = "Hammering"
+filename = "hammering-2.0.0+mc1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mBPfL1U7/versions/X88sgvwS/hammering-2.0.0%2Bmc1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "b0c42742d0bedd003037dc6e520dfdd80a0c0d9c5a150ac2266ea95701b5a33483a223234fb5182095239ddb63bbf6f7568c8f8576704205fa498f9fb5fe75c1"
+
+[update]
+[update.modrinth]
+mod-id = "mBPfL1U7"
+version = "X88sgvwS"

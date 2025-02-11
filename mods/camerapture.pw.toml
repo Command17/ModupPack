@@ -1,0 +1,13 @@
+name = "Camerapture"
+filename = "Camerapture-1.9.1+mc1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9dzLWnmZ/versions/lB4FlORc/Camerapture-1.9.1%2Bmc1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "da8e09e3e5ce2c64f25bc484a33dccb94857e384418dd3babc6eea8bda1ffee1288d06cc74518723cc06f6800478fde41890df73715b9d785e4d092f34fab42a"
+
+[update]
+[update.modrinth]
+mod-id = "9dzLWnmZ"
+version = "lB4FlORc"

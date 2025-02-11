@@ -1,0 +1,16 @@
+name = "Modup Pack"
+author = "Command17"
+version = "w0.p0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5770a863277ff7b6da91a0935e694c6ae067a73e58f95eeb21dcc2db5f191818"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21"]
