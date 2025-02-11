@@ -6,15 +6,15 @@ hash = "4345da9385706e8fb8b3ce90eeb2a9c9db0d2068f46b6fc32ba874fefb92f146"
 
 [[files]]
 file = "config/antixray-fabric.toml"
-hash = "80170e4a9d750dc5a54ac3b6ea7daf5b6df2ea562515e239b58e6d5724d9d818"
+hash = "ab2374fd1c8b344d73963e7431bfe0c9c6240f4338bbb9f9b37cb83261aeee13"
 
 [[files]]
 file = "config/backpacked.client.toml"
-hash = "8482307b90584d1fcdec2d7d7f19cdab3b8b94cf4951eb13393bf8a3c5b13d72"
+hash = "a55e8c2de90805b775e3dd4d1b28aa56d0651b0aa635c022e413dfc7b0eab126"
 
 [[files]]
 file = "config/backpacked.server.toml"
-hash = "e064797ffe3fd2733320d64d866781d68eaf50da03edd2e7ff5374f4c78fb6f5"
+hash = "7b6a025658c8f2f2e2d6f965bf14458a6a5766499b4018a7420a30f1e4b6c4ef"
 
 [[files]]
 file = "config/carryon-common.json"
@@ -78,11 +78,11 @@ hash = "47d50fb0fb713a4e6081086b6e9fe1299711e3b6b806491cf705876b70246bdd"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
-hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "dccff30c7a5e59eb445c7398e58696ace3aaccc0a3a7605f08b9e9643ed082f0"
+hash = "fda61a67123ff12fca35d65dd4fd6f764e752a013b08e479f006cf631c0cdfc4"
 
 [[files]]
 file = "config/yigd.json"
@@ -705,7 +705,7 @@ metafile = true
 
 [[files]]
 file = "scripts/recipesEX.zs"
-hash = "c307e94f208ee644a05d63caaad7b5ef11419eb9b747e367591749ada0930831"
+hash = "b0cedbe127f8d1f8124b54474ad9c9857e49528ac4d8d860dcfc1c009cc135c5"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
