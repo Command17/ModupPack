@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "97fc734f4cae192b1098173966dcaf66e8e65c0f25d3fb3a57031384927250e8"
+hash = "42f218e9224754a2d344f584433b43b67b7c0400aca3feba07cd344a1ca228ae"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/keep-my-soil-tilled.pw.toml"
-hash = "4ebf88c851928567abd5523ce0ebea8de576c798afebcb97b19a6a9c82044a35"
+hash = "58e9587658d73e49b00dc998328ee12f1c155784da6effb50e36683ca2f3e37e"
 metafile = true
 
 [[files]]
@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "80c9668435b6bf5d389b98183f621408312a92f13b919d698e190c2bb1f4100d"
+hash = "3775a0ed3356877a0ee56eabc33583bc0df2e2dee1a6231793abcd46f0a37efa"
 metafile = true
 
 [[files]]
@@ -655,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/stack-refill.pw.toml"
-hash = "515d635fb09aa97140f0af5b10946143a45ba261ae80276b6bb50f4f7a0709f3"
+hash = "25078e453f9303f1c786159476ad727aff65e29861df0a9ba4b02f2b5b2fab7d"
 metafile = true
 
 [[files]]
@@ -710,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "83d2b81250708266abe1d8e41d07d7b6e5a27a49062789491d2855d67cc94e12"
+hash = "a28eee797fa074ee2a7e056bf24d5dd9c9df2ef20dfca713f167d160a0fad9af"
 metafile = true
 
 [[files]]
