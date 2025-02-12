@@ -504,6 +504,11 @@ hash = "9c814e3178b386f49e8d7b9ee060c26a51809c14331d9718ac9794be3e79d750"
 metafile = true
 
 [[files]]
+file = "mods/mighty-mail.pw.toml"
+hash = "59b850b196e62887f2559a49414d026ef11e7ab890cac2098bdcff04dc5a88d1"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "1e4cd762e89106cdf514b21f4cfe0efa95dcdb7a9c06ed7d6943194f9bd6b1bb"
 metafile = true
