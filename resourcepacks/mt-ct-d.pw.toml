@@ -1,0 +1,13 @@
+name = "Midnighttigger's Default Connected Textures"
+filename = "Midnighttiggers-FCT-Default_1.20_V6.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TjOXlt9Y/versions/Uqkwu16P/Midnighttiggers-FCT-Default_1.20_V6.zip"
+hash-format = "sha512"
+hash = "d68c29240b5508d9f1e65015577a45e63100665206343e2e08bf0ecb115df4702a3362f78f26aa9268445869943fe521756ff2a65d24f4aa989a27cd9db5a4ea"
+
+[update]
+[update.modrinth]
+mod-id = "TjOXlt9Y"
+version = "Uqkwu16P"
