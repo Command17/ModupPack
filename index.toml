@@ -528,11 +528,6 @@ hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
 metafile = true
 
 [[files]]
-file = "mods/mpalladium.pw.toml"
-hash = "762719f5e21a3ad92ac393b449867298107695fccbade8b311ef3a13730d8ae3"
-metafile = true
-
-[[files]]
 file = "mods/my-nethers-delight-refabricated.pw.toml"
 hash = "193c03548df0d504fd9884ac47a3492bdf3561d49ad80717a0eba926e38ae8db"
 metafile = true
@@ -660,11 +655,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "af749ea9e281c81651b55d47d83374296701894267fa32be29c3b98e975c7237"
-metafile = true
-
-[[files]]
-file = "mods/toadlib.pw.toml"
-hash = "7241b6e5c7c3777d845fc2e5140d0b5486ed736fce73a73f664407c8194e272f"
 metafile = true
 
 [[files]]
